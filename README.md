@@ -22,6 +22,8 @@ The project consists of two principal files: **robot.world** and **encoder_plugi
 
 "Build" folder is also provided, and it contains already built files of the encoder. However, you can build your own version using CMake.
 
+If you are wondering what the real robot looks like, you can admire it opening **robot.png**. Easy!
+
 ----------------
 HOW TO PERFORM THE SIMULATION
 ---------------
