@@ -36,6 +36,7 @@ REQUIREMENTS:
 ------
 
 1 - Open the terminal and launch $roscore;
+
 2 - Open another terminal and type the following line:
 
 `$export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:~/yourpath/build`
@@ -45,6 +46,7 @@ REQUIREMENTS:
 `$rosrun gazebo_ros gazebo -u ~/yourpath/robot.world`
 
 4 - Once the robot is loaded, start the simulation by pressing "play". On the terminal, you should see the plugin starting its measurements.
+
 5 - To control your robot with the keyboard you should type the following line:
 
 `$roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch`
