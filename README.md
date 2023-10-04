@@ -10,6 +10,9 @@ Simulation of a robot with **differential drive kinematics**, equipped with an *
 
 The robot is modeled after a real machine which we have studied in order to get an accurate approximation of its dynamic and inertial properties.
 
+![Robot](robot.png)
+
+
 -----------------------------------
 DESCRIPTION OF INCLUDED FILES
 -----------------------------------
